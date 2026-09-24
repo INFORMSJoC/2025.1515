@@ -1,0 +1,110 @@
+InDoor #1: 4(4) 9(13) 5(18)
+InDoor #2: 0(6) 1(20)
+InDoor #3: 2(5) 6(13)
+InDoor #4: 7(2) 3(9) 8(20)
+OuDoor #1: 2(42) 5(48) 7(57)
+OuDoor #2: 6(44) 3(52)
+OuDoor #3: 4(46) 1(52) 9(58)
+OuDoor #4: 8(44) 0(53)
+Cost 20.00
+DetCost 20
+Time 1452.92
+InDoor #1: 4(4) 9(13) 8(20)
+InDoor #2: 0(6) 6(13)
+InDoor #3: 2(5) 1(20)
+InDoor #4: 7(2) 5(14) 3(22)
+OuDoor #1: 8(43) 3(52)
+OuDoor #2: 4(46) 0(52)
+OuDoor #3: 6(44) 1(52) 9(58)
+OuDoor #4: 5(46) 2(53) 7(59)
+Cost 20.00
+DetCost 20
+Time 1444.68
+InDoor #1: 7(2) 9(13) 8(20)
+InDoor #2: 0(6) 5(14)
+InDoor #3: 2(5) 1(20)
+InDoor #4: 4(4) 6(13) 3(23)
+OuDoor #1: 8(43) 3(52)
+OuDoor #2: 6(42) 0(50)
+OuDoor #3: 4(45) 1(51) 9(58)
+OuDoor #4: 5(46) 2(53) 7(59)
+Cost 17.00
+DetCost 17
+Time 1368.80
+InDoor #1: 0(6) 9(13) 8(20)
+InDoor #2: 3(9) 6(16)
+InDoor #3: 2(5) 7(13) 1(20)
+InDoor #4: 4(4) 5(14)
+OuDoor #1: 8(43) 1(52)
+OuDoor #2: 6(42) 3(50)
+OuDoor #3: 4(44) 5(50) 9(58)
+OuDoor #4: 2(42) 0(48) 7(58)
+Cost 17.00
+DetCost 17
+Time 984.36
+InDoor #1: 0(6) 7(13) 8(20)
+InDoor #2: 4(4) 6(13)
+InDoor #3: 2(5) 9(13) 1(20)
+InDoor #4: 5(14) 3(22)
+OuDoor #1: 8(43) 0(52)
+OuDoor #2: 6(42) 5(50) 7(57)
+OuDoor #3: 4(46) 2(52) 9(58)
+OuDoor #4: 1(46) 3(52)
+Cost 20.00
+DetCost 20
+Time 909.93
+InDoor #1: 3(9) 8(20)
+InDoor #2: 4(4) 5(14)
+InDoor #3: 7(2) 2(7) 9(15) 1(20)
+InDoor #4: 0(6) 6(13)
+OuDoor #1: 8(43) 0(52)
+OuDoor #2: 6(42) 3(50)
+OuDoor #3: 4(45) 1(51) 9(58)
+OuDoor #4: 5(46) 2(53) 7(59)
+Cost 17.00
+DetCost 17
+Time 1751.52
+InDoor #1: 2(5) 8(20)
+InDoor #2: 4(4) 6(13)
+InDoor #3: 0(6) 9(13) 1(20)
+InDoor #4: 7(2) 3(9) 5(16)
+OuDoor #1: 8(43) 3(52)
+OuDoor #2: 6(43) 1(51)
+OuDoor #3: 4(44) 0(50) 9(60)
+OuDoor #4: 5(46) 2(53) 7(59)
+Cost 19.00
+DetCost 19
+Time 291.86
+InDoor #1: 2(5) 7(13) 8(20)
+InDoor #2: 4(4) 6(13)
+InDoor #3: 0(6) 9(13) 1(20)
+InDoor #4: 3(9) 5(16)
+OuDoor #1: 8(43) 1(52) 0(58)
+OuDoor #2: 6(42) 3(50)
+OuDoor #3: 4(44) 5(50)
+OuDoor #4: 2(42) 9(48) 7(57)
+Cost 25.00
+DetCost 25
+Time 501.87
+InDoor #1: 4(4) 7(13) 8(20)
+InDoor #2: 0(6) 6(13)
+InDoor #3: 2(5) 9(13) 1(20)
+InDoor #4: 3(9) 5(16)
+OuDoor #1: 8(43) 3(52)
+OuDoor #2: 6(43) 1(51)
+OuDoor #3: 4(44) 0(50) 9(60)
+OuDoor #4: 5(46) 2(53) 7(59)
+Cost 19.00
+DetCost 19
+Time 1155.71
+InDoor #1: 3(9) 5(16)
+InDoor #2: 4(4) 7(13) 1(20)
+InDoor #3: 0(6) 6(13)
+InDoor #4: 2(5) 9(13) 8(20)
+OuDoor #1: 2(42) 5(48) 3(55)
+OuDoor #2: 4(45) 1(51)
+OuDoor #3: 6(42) 0(50)
+OuDoor #4: 8(43) 7(52) 9(62)
+Cost 23.00
+DetCost 23
+Time 368.30
