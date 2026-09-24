@@ -14,8 +14,8 @@ This directory contains the C++ implementation of SimHGS, the hybrid genetic sim
 | `Individual.*` | Scheduling-policy representation and evaluation state. |
 | `Population.*` | Population management, selection, diversity, and output routines. |
 | `Genetic.*` | SimHGS control flow and comparison experiment entry points. |
-| `LocalSearch.*` | Deterministic VND and simulation-based local-search neighborhoods. |
-| `SAA.*` | Scenario generation, simulation, policy evaluation, and fast evaluation support. |
+| `LocalSearch.*` | Deterministic VND. |
+| `SAA.*` | Scenario generation, simulation, policy evaluation, and simulation-based local-search neighborhoods. |
 
 ## Build
 
