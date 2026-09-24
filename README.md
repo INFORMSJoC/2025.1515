@@ -46,14 +46,14 @@ To cite the contents of this repository, please cite both the paper and the repo
 
 Each data, source, result, and analysis directory contains a local `README.md` describing its files.
 
-## Benchmark naming convention
+## Benchmark
 
 An instance name has the form `TDSP<n>_<d>_<n>_<d>_<set>.txt`, where `n` is the number of inbound trucks and outbound trucks, and `d` is the number of inbound doors and outbound doors.
 
 | Suffix | Paper set | Main characteristic |
 | --- | --- | --- |
 | `M` | Set A | Sparse goods-flow matrix (density 0.3). |
-| `MD` | Set B | Dense goods-flow matrix (density 1.0), baseline arrival pattern. |
+| `MD` | Set B | Dense goods-flow matrix (density 1.0). |
 | `X` | Set C | Dense goods-flow matrix with more concentrated truck arrivals. |
 
 See [`instances/README.md`](instances/README.md) for the complete text format and generation rules.
